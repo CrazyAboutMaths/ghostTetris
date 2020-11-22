@@ -1,0 +1,19 @@
+C:\Users\Craig\source\repos\ghostTetris\ghostTetris\bin\Debug\ghostTetris.exe.config
+C:\Users\Craig\source\repos\ghostTetris\ghostTetris\bin\Debug\ghostTetris.exe
+C:\Users\Craig\source\repos\ghostTetris\ghostTetris\bin\Debug\ghostTetris.pdb
+C:\Users\Craig\source\repos\ghostTetris\ghostTetris\obj\Debug\ghostTetris.csprojAssemblyReference.cache
+C:\Users\Craig\source\repos\ghostTetris\ghostTetris\obj\Debug\ghostTetris.ghostTetris.resources
+C:\Users\Craig\source\repos\ghostTetris\ghostTetris\obj\Debug\ghostTetris.Properties.Resources.resources
+C:\Users\Craig\source\repos\ghostTetris\ghostTetris\obj\Debug\ghostTetris.csproj.GenerateResource.cache
+C:\Users\Craig\source\repos\ghostTetris\ghostTetris\obj\Debug\ghostTetris.exe
+C:\Users\Craig\source\repos\ghostTetris\ghostTetris\obj\Debug\ghostTetris.pdb
+F:\Hackathons\ghostTetris (2)\ghostTetris\ghostTetris\bin\Debug\ghostTetris.exe.config
+F:\Hackathons\ghostTetris (2)\ghostTetris\ghostTetris\bin\Debug\ghostTetris.exe
+F:\Hackathons\ghostTetris (2)\ghostTetris\ghostTetris\bin\Debug\ghostTetris.pdb
+F:\Hackathons\ghostTetris (2)\ghostTetris\ghostTetris\obj\Debug\ghostTetris.csprojAssemblyReference.cache
+F:\Hackathons\ghostTetris (2)\ghostTetris\ghostTetris\obj\Debug\ghostTetris.ghostTetris.resources
+F:\Hackathons\ghostTetris (2)\ghostTetris\ghostTetris\obj\Debug\ghostTetris.Properties.Resources.resources
+F:\Hackathons\ghostTetris (2)\ghostTetris\ghostTetris\obj\Debug\ghostTetris.csproj.GenerateResource.cache
+F:\Hackathons\ghostTetris (2)\ghostTetris\ghostTetris\obj\Debug\ghostTetris.csproj.CoreCompileInputs.cache
+F:\Hackathons\ghostTetris (2)\ghostTetris\ghostTetris\obj\Debug\ghostTetris.exe
+F:\Hackathons\ghostTetris (2)\ghostTetris\ghostTetris\obj\Debug\ghostTetris.pdb
